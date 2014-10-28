@@ -11,5 +11,6 @@ int main(){
 	cout << "This is a new branch";
 	cout << "This is a new branch too";
 	cout << "这是测试分支的测试";
+	cout << "This is a new branch test";
 	system("pause");
 }
