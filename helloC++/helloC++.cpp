@@ -8,5 +8,8 @@ int main(){
 	cout << "This sentence is to test Git";
 	cout << "提交一";
 	cout << "提交二";
+	cout << "This is a new branch";
+	cout << "This is a new branch too";
+	cout << "这是测试分支的测试";
 	system("pause");
 }
