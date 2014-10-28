@@ -6,5 +6,6 @@ int main(){
 	cin >> input;
 	cout << "What you have input is "<<input<<endl;
 	cout << "This sentence is to test Git";
+	cout << "�ύһ";
 	system("pause");
 }
